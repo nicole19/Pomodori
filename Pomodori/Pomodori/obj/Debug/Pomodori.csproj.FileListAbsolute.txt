@@ -1,0 +1,9 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\bin\Debug\Pomodori.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\bin\Debug\Pomodori.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\bin\Debug\Pomodori.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Pomodori\Pomodori\obj\Debug\Pomodori.pdb
